@@ -42,7 +42,7 @@ public class MyRunner implements CommandLineRunner {
 		
 		
 		CountryMO uk = new CountryMO();
-		uk.setName("United Kingdom");
+		uk.setName("UK");
 		uk.setCapital("London");
 		uk.setCurrency(Currency.GBP);
 		uk.setPopulation(63705000);
